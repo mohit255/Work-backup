@@ -1,0 +1,1 @@
+<?php header("location:".base_url()."user/signup/index/2"); ?>
